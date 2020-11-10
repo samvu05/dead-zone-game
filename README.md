@@ -1,2 +1,2 @@
 "#Deadzone_game" 
-![DEMO IMAGE](https://imgur.com/40gwvRBg)
+![DEMO IMAGE](https://i.imgur.com/75YjCJO.png)
